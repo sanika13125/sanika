@@ -1,9 +1,12 @@
-
 .container{
-    text-align: center;
-    font-family: Arial, sans-serif;
-    background-color: aquamarine;
-    margin: 10px;
-    padding: 10px;
-    height: 10px;
+    text-align:top;
+    background-color: #752b45;
+    margin: 25px;
+    padding: 170px;
+    height: 25px;
+    justify-content: center;
+    display: flexbox;
+    text-shadow: 20px;
+    font-size:20px;
+    background-size: 600px;
 }
